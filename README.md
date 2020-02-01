@@ -105,4 +105,3 @@ GitHubの障害により期間を延長しました: https://blog.github.com/201
 - [shaunkawano](https://github.com/shaunkawano)
 - [shoheiyokoyama](https://github.com/shoheiyokoyama)
 - [ryo_suga](https://github.com/RyotaSugawara)
-æ¬åã«ãããã¨ããããã¾ãã!!
